@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Twitter-08A0E9?style=for-the-badge&logo=Twitter&logoColor=ffffff"></a>
 <a href="https://www.instagram.com/abraralidev/">
 <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff"></a>
-<a href="mailto:abraraliiofficial@gmail.com">
+<a href="mailto:abraralidev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
 <a href="https://m.me/abraralidev/">
 <img src="https://img.shields.io/badge/Chat-1877F2?style=for-the-badge&logo=Messenger&logoColor=ffffff"></a>
