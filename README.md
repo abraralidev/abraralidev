@@ -1,7 +1,8 @@
 
 
 ### Hi, Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-<img align="right" alt="Developer" src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47bp3n5aml29td8w3glpic16afysccx6v0wjjyxqgh&rid=giphy.gif&ct=g" width="500" height="320" />
+<!-- <img align="right" alt="Developer" src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47bp3n5aml29td8w3glpic16afysccx6v0wjjyxqgh&rid=giphy.gif&ct=g" width="500" height="320" /> -->
+<a href="https://app.daily.dev/abraralidev"><img src="https://api.daily.dev/devcards/eed6a2c216b54be0841809349b75132e.png?r=fbg" width="400" align="right"  alt="Abrar Ali's Dev Card"/></a>
 
 ![](https://komarev.com/ghpvc/?username=abraralidev&label=PROFILE+VIEWS&style=plastic)
 - 😄 Pronouns me as `/Ab-r-ar/`
@@ -54,3 +55,4 @@
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraralidev&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
 </div>
 <br>
+
