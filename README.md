@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=abraralidev&label=PROFILE+VIEWS&style=plastic)
 - 😄 Pronouns me as `/Ab-r-ar/`
 - 🎓 Virtual University Faisalabad
-- 💻 Flutter Developer
+- 💻 Flutter Developer & Trainer
 - 🌱 Learning **Something New**
 - ☕️ Coffee Lover
 - 🇵🇰 Faisalabad, Punjab, Pakistan
