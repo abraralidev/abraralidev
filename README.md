@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@abraralidev](https://medium.com/@abraralidev)
 
-- 💬 Ask me about **Flutter, Dart, React, Node-Js**
+- 💬 Ask me about **Flutter, Dart, React, Node-Js, Next-Js**
 
 - 📫 How to reach me **abraralidev@gmail.com**
 
