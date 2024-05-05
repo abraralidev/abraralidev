@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Something New**
 
-- 🌱 I’m currently learning **Nest-JS**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
