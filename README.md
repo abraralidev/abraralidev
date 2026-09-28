@@ -9,7 +9,7 @@
 
 <!-- TYPING SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=A29BFE&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+polished+mobile+%26+web+products+%F0%9F%9A%80;5%2B+years+%7C+50%2B+Clients+%7C+40%2B+Projects+Shipped+%E2%9C%A8;Available+for+hire+%E2%80%94+Let's+build+something+remarkable" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=A29BFE&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+polished+mobile+%26+web+products+%F0%9F%9A%80;5%2B+years+%7C+50%2B+Clients+%7C+40%2B+Projects+Shipped+%E2%9C%A8;Available+for+hire+%E2%80%94+Let's+build+something+remarkable" alt="Typing SVG" /></a>
 </p>
 
 <!-- PROFILE BADGES -->
